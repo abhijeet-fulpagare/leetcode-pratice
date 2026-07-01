@@ -27,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Hash Table
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## String
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
