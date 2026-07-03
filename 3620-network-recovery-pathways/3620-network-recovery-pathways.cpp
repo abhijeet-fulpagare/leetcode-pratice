@@ -20,7 +20,8 @@ public:
 
             for (auto [v, wt] : adj[node])
             {
-                if (!online[v] || wt < mid) continue;
+                if (online[v] && wt >= mid)
+                {
 
                 long long newCost = cost + wt;
 
@@ -28,6 +29,7 @@ public:
                 {
                     dist[v] = newCost;
                     pq.push({newCost, v});
+                }
                 }
             }
         }
