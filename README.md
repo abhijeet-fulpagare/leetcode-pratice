@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0213-house-robber-ii) |
 | [3620-network-recovery-pathways](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3620-network-recovery-pathways) |
@@ -81,5 +82,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0062-unique-paths) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
