@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3620-network-recovery-pathways) |
@@ -88,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
