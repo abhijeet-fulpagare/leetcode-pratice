@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0213-house-robber-ii) |
 | [1288-remove-covered-intervals](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1288-remove-covered-intervals) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0064-minimum-path-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0213-house-robber-ii) |
 | [3620-network-recovery-pathways](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3620-network-recovery-pathways) |
