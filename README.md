@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0213-house-robber-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0931-minimum-falling-path-sum) |
 | [1288-remove-covered-intervals](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1331-rank-transform-of-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0064-minimum-path-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0931-minimum-falling-path-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0213-house-robber-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0931-minimum-falling-path-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
