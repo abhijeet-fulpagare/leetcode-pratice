@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0494-target-sum) |
 | [0741-cherry-pickup](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1260-shift-2d-grid) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0494-target-sum) |
 | [0741-cherry-pickup](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1463-cherry-pickup-ii) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
