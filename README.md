@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0516-longest-palindromic-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0518-coin-change-ii) |
 | [0741-cherry-pickup](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0931-minimum-falling-path-sum) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1463-cherry-pickup-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3620-network-recovery-pathways) |
