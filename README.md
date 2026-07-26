@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0583-delete-operation-for-two-strings) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0583-delete-operation-for-two-strings) |
 | [0741-cherry-pickup](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0931-minimum-falling-path-sum) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
