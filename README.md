@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0494-target-sum) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0300-longest-increasing-subsequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3620-network-recovery-pathways) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0494-target-sum) |
