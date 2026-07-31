@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -72,12 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0049-group-anagrams) |
 | [1331-rank-transform-of-an-array](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0583-delete-operation-for-two-strings) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0049-group-anagrams) |
 | [1288-remove-covered-intervals](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
