@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0518-coin-change-ii) |
 | [0741-cherry-pickup](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0741-cherry-pickup) |
+| [0877-stone-game](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1288-remove-covered-intervals) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0583-delete-operation-for-two-strings) |
 | [0741-cherry-pickup](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0741-cherry-pickup) |
+| [0877-stone-game](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0931-minimum-falling-path-sum) |
 | [1092-shortest-common-supersequence](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1143-longest-common-subsequence) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -216,4 +219,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
