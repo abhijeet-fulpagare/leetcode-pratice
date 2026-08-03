@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0543-diameter-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
@@ -226,4 +227,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1406-stone-game-iii) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
