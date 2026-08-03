@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1463-cherry-pickup-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0300-longest-increasing-subsequence) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3620-network-recovery-pathways) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0543-diameter-of-binary-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0700-search-in-a-binary-search-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0700-search-in-a-binary-search-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -261,4 +266,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0700-search-in-a-binary-search-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
