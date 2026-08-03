@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0049-group-anagrams) |
+| [0208-implement-trie-prefix-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0208-implement-trie-prefix-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0072-edit-distance) |
+| [0208-implement-trie-prefix-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0208-implement-trie-prefix-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1092-shortest-common-supersequence) |
@@ -267,4 +269,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0700-search-in-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
