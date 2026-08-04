@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0486-predict-the-winner](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0518-coin-change-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Backtracking
@@ -285,4 +288,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0212-word-search-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
