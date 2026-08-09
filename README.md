@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0741-cherry-pickup) |
 | [0877-stone-game](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0931-minimum-falling-path-sum) |
+| [1140-stone-game-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1331-rank-transform-of-an-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0931-minimum-falling-path-sum) |
 | [1092-shortest-common-supersequence](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1092-shortest-common-supersequence) |
+| [1140-stone-game-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1406-stone-game-iii) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1406-stone-game-iii) |
 ## Tree
 |  |
@@ -297,4 +301,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1707-maximum-xor-with-an-element-from-array) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
