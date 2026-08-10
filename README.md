@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1463-cherry-pickup-ii) |
+| [1510-stone-game-iv](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1510-stone-game-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1510-stone-game-iv) |
 ## Tree
 |  |
 | ------- |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -313,4 +317,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
