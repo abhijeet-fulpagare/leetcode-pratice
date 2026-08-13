@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1463-cherry-pickup-ii) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
@@ -332,4 +334,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1510-stone-game-iv) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
