@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1463-cherry-pickup-ii) |
 | [1563-stone-game-v](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1563-stone-game-v) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1386-cinema-seat-allocation) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1386-cinema-seat-allocation](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
