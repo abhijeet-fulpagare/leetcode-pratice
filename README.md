@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1406-stone-game-iii) |
@@ -404,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0184-department-highest-salary](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0185-department-top-three-salaries) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
