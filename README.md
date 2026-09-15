@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1563-stone-game-v) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2029-stone-game-ix) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
