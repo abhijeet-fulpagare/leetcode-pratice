@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0208-implement-trie-prefix-tree) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
