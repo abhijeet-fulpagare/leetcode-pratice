@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0143-reorder-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -393,12 +395,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0143-reorder-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0143-reorder-list) |
 | [0678-valid-parenthesis-string](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1021-remove-outermost-parentheses) |
