@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1331-rank-transform-of-an-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0322-coin-change) |
+| [1254-number-of-closed-islands](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0212-word-search-ii) |
 | [0741-cherry-pickup](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0931-minimum-falling-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1463-cherry-pickup-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0543-diameter-of-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2685-count-the-number-of-complete-components) |
