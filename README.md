@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0322-coin-change) |
 | [1254-number-of-closed-islands](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0931-minimum-falling-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1267-count-servers-that-communicate) |
 | [1463-cherry-pickup-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1463-cherry-pickup-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/0543-diameter-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2685-count-the-number-of-complete-components) |
@@ -376,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abhijeet-fulpagare/leetcode-pratice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
